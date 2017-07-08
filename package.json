@@ -1,0 +1,23 @@
+{
+  "name": "spotiweb",
+  "version": "1.0.0",
+  "description": "Control the Spotify Web Player using your keyboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabirvirji/spotiweb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kabirvirji/spotiweb/issues"
+  },
+  "homepage": "https://github.com/kabirvirji/spotiweb#readme",
+  "dependencies": {
+    "keypress": "^0.2.1"
+  }
+}
